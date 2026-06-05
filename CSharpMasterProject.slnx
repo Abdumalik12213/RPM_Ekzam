@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../CSharpMaster/CSharpMaster.csproj" />
+  <Project Path="CSharpMaster.Tests/CSharpMaster.Tests.csproj" Id="ceed7bcc-807d-443a-a113-1a350625d4c8" />
+</Solution>
